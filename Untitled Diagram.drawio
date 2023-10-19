@@ -1,9 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T11:17:51.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.5" etag="hrk_GjUFyg2WV8BYM4o6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T11:22:36.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dIYGEJnI6CeMry9lb3hQ" version="22.0.5" type="github">
   <diagram name="Page-1" id="86p9ZIlNki7pvcBP722q">
-    <mxGraphModel>
+    <mxGraphModel dx="1004" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-1" value="دنیای واقعی" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-3" target="q-bB1EgF8WEumbGVNf0N-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-3" value="دیتای خام" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-4" target="q-bB1EgF8WEumbGVNf0N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-4" value="آماده کردن دیتا" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-6" target="q-bB1EgF8WEumbGVNf0N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-6" target="q-bB1EgF8WEumbGVNf0N-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-6" value="دیتای تمیز" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-8" target="q-bB1EgF8WEumbGVNf0N-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-8" value="EDA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-15" target="q-bB1EgF8WEumbGVNf0N-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-15" target="q-bB1EgF8WEumbGVNf0N-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-15" value="مدلسازی" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-19" target="q-bB1EgF8WEumbGVNf0N-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-19" value="محصول" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="130" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q-bB1EgF8WEumbGVNf0N-21" target="q-bB1EgF8WEumbGVNf0N-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-21" value="تصویرسازی" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="270" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q-bB1EgF8WEumbGVNf0N-23" value="تصمیم گیری" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="200" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
